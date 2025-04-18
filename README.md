@@ -32,16 +32,16 @@ npm run dev
 
 App runs on http://localhost:5173 (or your configured port).
 
+File structure
 
- File Structure
-
- ├── public/
+├── public/
 ├── src/
 │   ├── App.css
-│   ├── ticketaeroplane.js  ← main React component
+│   ├── ticketaeroplane.js  
 │   └── main.jsx
 ├── package.json
 └── README.md
+
 
 
 
