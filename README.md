@@ -23,18 +23,18 @@ A simple React web application to book airplane tickets. Users can enter their n
 
 2. **Install dependencies:**
 
-'''bash
-npm install
+   ```bash
+   npm install
 
 3. **Run the app:**
-'''bash
-npm run dev
+   ```bash
+    npm run dev
 
 
 App runs on http://localhost:5173 (or your configured port).
 
 **File structure**
-'''bash
+```bash
 ├── public/
 ├── src/
 │   ├── App.css
