@@ -21,19 +21,20 @@ A simple React web application to book airplane tickets. Users can enter their n
    git clone https://github.com/your-username/ticket-booking-app.git
    cd ticket-booking-app
 
-Install dependencies:
+2. **Install dependencies:**
 
+'''bash
 npm install
 
-Run the app:
-
+3. **Run the app:**
+'''bash
 npm run dev
 
 
 App runs on http://localhost:5173 (or your configured port).
 
-File structure
-
+**File structure**
+'''bash
 ├── public/
 ├── src/
 │   ├── App.css
